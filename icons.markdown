@@ -235,7 +235,7 @@ To create future icons, use [App_Icons_Final_Version.ai](icons/App_Icons_Final_V
 </td>
 <td width="25%">
 
-<h3>FONT ICONS</h3>
+<h3>FONT ICONS - INC</h3>
 <img src="icons/png/Brix.png">
 <ul>
 <li><a href="icons/png/Brix.png" download>Brix.png</a></li>
@@ -243,7 +243,16 @@ To create future icons, use [App_Icons_Final_Version.ai](icons/App_Icons_Final_V
 </ul>
 
 </td>
-<td></td>
+<td width="25%">
+
+<h3>CLOCK - INC</h3>
+<img src="icons/png/Brix.png">
+<ul>
+<li><a href="icons/png/Brix.png" download>Brix.png</a></li>
+<li><a href="icons/svg/Brix.svg" download>Brix.svg</a></li>
+</ul>
+
+</td>
 <td></td>
 </tr>
 </table>
