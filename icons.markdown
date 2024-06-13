@@ -14,83 +14,41 @@ To create future icons, use [App_Icons_Final_Version.ai](icons/App_Icons_Final_V
 <tr>
 <td width="25%">
 
-<h3>1. BRIX</h3>
-<img src="icons/png/1_Brix.png">
+<h3>BRIX</h3>
+<img src="icons/png/Brix.png">
 <ul>
-<li><a href="icons/png/1_Brix.png" download>1_Brix.png</a></li>
-<li><a href="icons/svg/1_Brix.svg" download>1_Brix.svg</a></li>
+<li><a href="icons/png/Brix.png" download>Brix.png</a></li>
+<li><a href="icons/svg/Brix.svg" download>Brix.svg</a></li>
 </ul>
 
 </td>
 <td width="25%">
 
-<h3>2. NAVIGATION</h3>
-<img src="icons/png/2_Navigation.png">
+<h3>NAVIGATION</h3>
+<img src="icons/png/Navigation.png">
 <ul>
-<li><a href="icons/png/2_Navigation.png" download>2_Navigation.png</a></li>
-<li><a href="icons/svg/2_Navigation.svg" download>2_Navigation.svg</a></li>
+<li><a href="icons/png/Navigation.png" download>Navigation.png</a></li>
+<li><a href="icons/svg/Navigation.svg" download>Navigation.svg</a></li>
 </ul>
 
 </td>
 <td width="25%">
 
 <h3>3. FLOW</h3>
-<img src="icons/png/3_Flow.png">
+<img src="icons/png/Flow.png">
 <ul>
-<li><a href="icons/png/3_Flow.png" download>3_Flow.png</a></li>
-<li><a href="icons/svg/3_Flow.svg" download>3_Flow.svg</a></li>
+<li><a href="icons/png/Flow.png" download>Flow.png</a></li>
+<li><a href="icons/svg/Flow.svg" download>Flow.svg</a></li>
 </ul>
 
 </td>
 <td width="25%">
 
-<h3>4. EVENTS</h3>
-<img src="icons/png/4_Events.png">
+<h3>EVENTS</h3>
+<img src="icons/png/Events.png">
 <ul>
-<li><a href="icons/png/4_Events.png" download>4_Events.png</a></li>
-<li><a href="icons/svg/4_Events.svg" download>4_Events.svg</a></li>
-</ul>
-
-</td>
-</tr>
-<tr>
-<td width="25%">
-
-<h3>5. RADIO STATION</h3>
-<img src="icons/png/5_Radio_Station.png">
-<ul>
-<li><a href="icons/png/5_Radio_Station.png" download>5_Radio_Station.png</a></li>
-<li><a href="icons/svg/5_Radio_Station.svg" download>5_Radio_Station.svg</a></li>
-</ul>
-
-</td>
-<td width="25%">
-
-<h3>6. TRAIN</h3>
-<img src="icons/png/6_Train.png">
-<ul>
-<li><a href="icons/png/6_Train.png" download>6_Train.png</a></li>
-<li><a href="icons/svg/6_Train.svg" download>6_Train.svg</a></li>
-</ul>
-
-</td>
-<td width="25%">
-
-<h3>7. PICK A BRICK</h3>
-<img src="icons/png/7_Pick_A_Brick.png">
-<ul>
-<li><a href="icons/png/7_Pick_A_Brick.png" download>7_Pick_A_Brick.png</a></li>
-<li><a href="icons/svg/7_Pick_A_Brick.svg" download>7_Pick_A_Brick.svg</a></li>
-</ul>
-
-</td>
-<td width="25%">
-
-<h3>8. COLOURS</h3>
-<img src="icons/png/8_Colours.png">
-<ul>
-<li><a href="icons/png/8_Colours.png" download>8_Colours.png</a></li>
-<li><a href="icons/svg/8_Colours.svg" download>8_Colours.svg</a></li>
+<li><a href="icons/png/Events.png" download>Events.png</a></li>
+<li><a href="icons/svg/Events.svg" download>Events.svg</a></li>
 </ul>
 
 </td>
@@ -98,83 +56,41 @@ To create future icons, use [App_Icons_Final_Version.ai](icons/App_Icons_Final_V
 <tr>
 <td width="25%">
 
-<h3>9. PARTS</h3>
-<img src="icons/png/9_Parts.png">
+<h3>RADIO STATION</h3>
+<img src="icons/png/Radio_Station.png">
 <ul>
-<li><a href="icons/png/9_Parts.png" download>9_Parts.png</a></li>
-<li><a href="icons/svg/9_Parts.svg" download>9_Parts.svg</a></li>
+<li><a href="icons/png/Radio_Station.png" download>Radio_Station.png</a></li>
+<li><a href="icons/svg/Radio_Station.svg" download>Radio_Station.svg</a></li>
 </ul>
 
 </td>
 <td width="25%">
 
-<h3>10. POWER GRID</h3>
-<img src="icons/png/10_Power_Grid.png">
+<h3>TRAIN</h3>
+<img src="icons/png/Train.png">
 <ul>
-<li><a href="icons/png/10_Power_Grid.png" download>10_Power_Grid.png</a></li>
-<li><a href="icons/svg/10_Power_Grid.svg" download>10_Power_Grid.svg</a></li>
+<li><a href="icons/png/Train.png" download>Train.png</a></li>
+<li><a href="icons/svg/Train.svg" download>Train.svg</a></li>
 </ul>
 
 </td>
 <td width="25%">
 
-<h3>11. CONTROL PANEL</h3>
-<img src="icons/png/11_Control_Panel.png">
+<h3>PICK A BRICK</h3>
+<img src="icons/png/Pick_A_Brick.png">
 <ul>
-<li><a href="icons/png/11_Control_Panel.png" download>11_Control_Panel.png</a></li>
-<li><a href="icons/svg/11_Control_Panel.svg" download>11_Control_Panel.svg</a></li>
+<li><a href="icons/png/Pick_A_Brick.png" download>Pick_A_Brick.png</a></li>
+<li><a href="icons/svg/Pick_A_Brick.svg" download>Pick_A_Brick.svg</a></li>
 </ul>
 
 </td>
 <td width="25%">
 
-<h3>12. QR</h3>
-<img src="icons/png/12_QR.png">
+<h3>COLOURS</h3>
+<img src="icons/png/Colours.png">
 <ul>
-<li><a href="icons/png/12_QR.png" download>12_QR.png</a></li>
-<li><a href="icons/svg/12_QR.svg" download>12_QR.svg</a></li>
-</ul>
-
-</td>
-</tr>
-<tr>
-<td width="25%">
-
-<h3>13. TIMESHEETS</h3>
-<img src="icons/png/13_Timesheets.png">
-<ul>
-<li><a href="icons/png/13_Timesheets.png" download>13_Timesheets.png</a></li>
-<li><a href="icons/svg/13_Timesheets.svg" download>13_Timesheets.svg</a></li>
-</ul>
-
-</td>
-<td width="25%">
-
-<h3>14. BRICKOVERFLOW</h3>
-<img src="icons/png/14_Brick_Overflow.png">
-<ul>
-<li><a href="icons/png/14_Brick_Overflow.png" download>14_Brick_Overflow.png</a></li>
-<li><a href="icons/svg/14_Brick_Overflow.svg" download>14_Brick_Overflow.svg</a></li>
-</ul>
-
-</td>
-<td width="25%">
-
-<h3>15. TRACKS</h3>
-<img src="icons/png/15_Tracks.png">
-<ul>
-<li><a href="icons/png/15_Tracks.png" download>15_Tracks.png</a></li>
-<li><a href="icons/svg/15_Tracks.svg" download>15_Tracks.svg</a></li>
-</ul>
-
-</td>
-<td width="25%">
-
-<h3>16. ROADVIEW</h3>
-<img src="icons/png/16_RoadView.png">
-<ul>
-<li><a href="icons/png/16_RoadView.png" download>16_RoadView.png</a></li>
-<li><a href="icons/svg/16_RoadView.svg" download>16_RoadView.svg</a></li>
+<li><a href="icons/png/Colours.png" download>Colours.png</a></li>
+<li><a href="icons/svg/Colours.svg" download>Colours.svg</a></li>
 </ul>
 
 </td>
@@ -182,42 +98,126 @@ To create future icons, use [App_Icons_Final_Version.ai](icons/App_Icons_Final_V
 <tr>
 <td width="25%">
 
-<h3>17. TIMELINE</h3>
-<img src="icons/png/17_Timeline.png">
+<h3>PARTS</h3>
+<img src="icons/png/Parts.png">
 <ul>
-<li><a href="icons/png/17_Timeline.png" download>17_Timeline.png</a></li>
-<li><a href="icons/svg/17_Timeline.svg" download>17_Timeline.svg</a></li>
+<li><a href="icons/png/Parts.png" download>Parts.png</a></li>
+<li><a href="icons/svg/Parts.svg" download>Parts.svg</a></li>
+</ul>
+
+</td>
+<td width="25%">
+
+<h3>POWER GRID</h3>
+<img src="icons/png/Power_Grid.png">
+<ul>
+<li><a href="icons/png/Power_Grid.png" download>Power_Grid.png</a></li>
+<li><a href="icons/svg/Power_Grid.svg" download>Power_Grid.svg</a></li>
+</ul>
+
+</td>
+<td width="25%">
+
+<h3>CONTROL PANEL</h3>
+<img src="icons/png/Control_Panel.png">
+<ul>
+<li><a href="icons/png/Control_Panel.png" download>Control_Panel.png</a></li>
+<li><a href="icons/svg/Control_Panel.svg" download>Control_Panel.svg</a></li>
+</ul>
+
+</td>
+<td width="25%">
+
+<h3>QR</h3>
+<img src="icons/png/QR.png">
+<ul>
+<li><a href="icons/png/QR.png" download>QR.png</a></li>
+<li><a href="icons/svg/QR.svg" download>QR.svg</a></li>
+</ul>
+
+</td>
+</tr>
+<tr>
+<td width="25%">
+
+<h3>TIMESHEETS</h3>
+<img src="icons/png/Timesheets.png">
+<ul>
+<li><a href="icons/png/Timesheets.png" download>Timesheets.png</a></li>
+<li><a href="icons/svg/Timesheets.svg" download>Timesheets.svg</a></li>
+</ul>
+
+</td>
+<td width="25%">
+
+<h3>BRICKOVERFLOW</h3>
+<img src="icons/png/Brick_Overflow.png">
+<ul>
+<li><a href="icons/png/Brick_Overflow.png" download>Brick_Overflow.png</a></li>
+<li><a href="icons/svg/Brick_Overflow.svg" download>Brick_Overflow.svg</a></li>
+</ul>
+
+</td>
+<td width="25%">
+
+<h3>TRACKS</h3>
+<img src="icons/png/Tracks.png">
+<ul>
+<li><a href="icons/png/Tracks.png" download>Tracks.png</a></li>
+<li><a href="icons/svg/Tracks.svg" download>Tracks.svg</a></li>
+</ul>
+
+</td>
+<td width="25%">
+
+<h3>ROADVIEW</h3>
+<img src="icons/png/RoadView.png">
+<ul>
+<li><a href="icons/png/RoadView.png" download>RoadView.png</a></li>
+<li><a href="icons/svg/RoadView.svg" download>RoadView.svg</a></li>
+</ul>
+
+</td>
+</tr>
+<tr>
+<td width="25%">
+
+<h3>TIMELINE</h3>
+<img src="icons/png/Timeline.png">
+<ul>
+<li><a href="icons/png/Timeline.png" download>Timeline.png</a></li>
+<li><a href="icons/svg/Timeline.svg" download>Timeline.svg</a></li>
 </ul>
 
 </td>
 <td width="25%">
   
-<h3>18. PLACEKIT</h3>
-<img src="icons/png/18_PlaceKit.png">
+<h3>PLACEKIT</h3>
+<img src="icons/png/PlaceKit.png">
 <ul>
-<li><a href="icons/png/18_PlaceKit.png" download>18_PlaceKit.png</a></li>
-<li><a href="icons/svg/18_PlaceKit.svg" download>18_PlaceKit.svg</a></li>
+<li><a href="icons/png/PlaceKit.png" download>PlaceKit.png</a></li>
+<li><a href="icons/svg/PlaceKit.svg" download>PlaceKit.svg</a></li>
 </ul>
 
 </td>
 <td width="25%">
 
-<h3>19. VIDEOKIT</h3>
+<h3>VIDEOKIT</h3>
 
-<img src="icons/png/19_VideoKit.png">
+<img src="icons/png/VideoKit.png">
 <ul>
-<li><a href="icons/png/19_VideoKit.png" download>19_VideoKit.png</a></li>
-<li><a href="icons/svg/19_VideoKit.svg" download>19_VideoKit.svg</a></li>
+<li><a href="icons/png/VideoKit.png" download>VideoKit.png</a></li>
+<li><a href="icons/svg/VideoKit.svg" download>VideoKit.svg</a></li>
 </ul>
 
 </td>
 <td width="25%">
 
-<h3>20. STORES</h3>
-<img src="icons/png/20_Stores.png">
+<h3>STORES</h3>
+<img src="icons/png/Stores.png">
 <ul>
-<li><a href="icons/png/20_Stores.png" download>20_Stores.png</a></li>
-<li><a href="icons/svg/20_Stores.svg" download>20_Stores.svg</a></li>
+<li><a href="icons/png/Stores.png" download>Stores.png</a></li>
+<li><a href="icons/svg/Stores.svg" download>Stores.svg</a></li>
 </ul>
 
 </td>
@@ -225,15 +225,24 @@ To create future icons, use [App_Icons_Final_Version.ai](icons/App_Icons_Final_V
 <tr>
 <td width="25%">
 
-<h3>21. BRICKSUM</h3>
-<img src="icons/png/21_Bricksum.png">
+<h3>BRICKSUM</h3>
+<img src="icons/png/Bricksum.png">
 <ul>
-<li><a href="icons/png/21_Bricksum.png" download>21_Bricksum.png</a></li>
-<li><a href="icons/svg/21_Bricksum.svg" download>21_Bricksum.svg</a></li>
+<li><a href="icons/png/Bricksum.png" download>Bricksum.png</a></li>
+<li><a href="icons/svg/Bricksum.svg" download>Bricksum.svg</a></li>
 </ul>
 
 </td>
-<td></td>
+<td width="25%">
+
+<h3>FONT ICONS</h3>
+<img src="icons/png/Bricksum.png">
+<ul>
+<li><a href="icons/png/Bricksum.png" download>Bricksum.png</a></li>
+<li><a href="icons/svg/Bricksum.svg" download>Bricksum.svg</a></li>
+</ul>
+
+</td>
 <td></td>
 <td></td>
 </tr>
