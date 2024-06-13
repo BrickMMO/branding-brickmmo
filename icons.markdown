@@ -34,7 +34,7 @@ To create future icons, use [App_Icons_Final_Version.ai](icons/App_Icons_Final_V
 </td>
 <td width="25%">
 
-<h3>3. FLOW</h3>
+<h3>FLOW</h3>
 <img src="icons/png/Flow.png">
 <ul>
 <li><a href="icons/png/Flow.png" download>Flow.png</a></li>
