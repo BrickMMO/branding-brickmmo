@@ -267,7 +267,7 @@ To create future icons, use [App_Icons_Final_Version.ai](icons/App_Icons_Final_V
 <tr>
 <td>
     
-<h3>CONVERSIONS - INC</h3>
+<h3>CDN - INC</h3>
 <img src="icons/png/Brix.png">
 <ul>
 <li><a href="icons/png/Brix.png" download>Brix.png</a></li>
