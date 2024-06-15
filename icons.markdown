@@ -56,11 +56,11 @@ To create future icons, use [App_Icons_Final_Version.ai](icons/App_Icons_Final_V
 <tr>
 <td width="25%">
 
-<h3>RADIO STATION</h3>
-<img src="icons/png/Radio_Station.png">
+<h3>RADIO</h3>
+<img src="icons/png/Radio.png">
 <ul>
-<li><a href="icons/png/Radio_Station.png" download>Radio_Station.png</a></li>
-<li><a href="icons/svg/Radio_Station.svg" download>Radio_Station.svg</a></li>
+<li><a href="icons/png/Radio.png" download>Radio.png</a></li>
+<li><a href="icons/svg/Radio.svg" download>Radion.svg</a></li>
 </ul>
 
 </td>
