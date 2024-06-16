@@ -21,6 +21,10 @@ To create future icons, use [App_Icons_Final_Version.ai](icons/App_Icons_Final_V
 <li><a href="icons/svg/Brix.svg" download>Brix.svg</a></li>
 </ul>
 
+Name: Brix
+<br>
+Filename: brix.png
+
 </td>
 <td width="25%">
 
