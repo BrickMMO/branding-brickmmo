@@ -21,11 +21,14 @@ To create future icons, use [App_Icons_Final_Version.ai](icons/App_Icons_Final_V
 <li><a href="icons/svg/Brix.svg" download>Brix.svg</a></li>
 </ul>
 
+<string>Usage</strong>
+<small>
 Name: Brix
 <br>
 Filename: brix.png
 <br>
 URL: brix.brickmmo.com
+</small>
 
 </td>
 <td width="25%">
