@@ -22,6 +22,7 @@ To create future icons, use [App_Icons_Final_Version.ai](icons/App_Icons_Final_V
 </ul>
 
 <string>Usage</strong>
+<br>
 <small>
 Name: Brix
 <br>
