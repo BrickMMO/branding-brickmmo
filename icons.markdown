@@ -336,6 +336,11 @@ URL: brix.brickmmo.com
 </tr>
 </table>
 
+
+BrickMMO icons can be included as icon files using the [FontIcons](https://fonticons.brickmmo.com) CSS library or as PNGs using the [BrickMMO CDN](https://cdn.brickmmo.com). 
+
+> CDN is available at [https://cdn.brickmmo.com/](https://cdn.brickmmo.com/)
+
 ---
 
 <a href="https://brickmmo.com">
