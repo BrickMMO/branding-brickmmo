@@ -244,10 +244,10 @@ URL: brix.brickmmo.com
 <td width="25%">
 
 <h3>FONT ICONS - INC</h3>
-<img src="icons/png/Brix.png">
+<img src="icons/png/Font_Icons.png">
 <ul>
-<li><a href="icons/png/Brix.png" download>Brix.png</a></li>
-<li><a href="icons/svg/Brix.svg" download>Brix.svg</a></li>
+<li><a href="icons/png/Font_Icons.png" download>Font_Icons.png</a></li>
+<li><a href="icons/svg/Font_Icons.svg" download>Font_Icons.svg</a></li>
 </ul>
 
 </td>
