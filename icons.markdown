@@ -8,7 +8,7 @@
 
 Please refer to the publications below for the brand guidelines which review the advertising themes we are using and how to execute these themes in our marketing materials. The quick reference guides are short, specific content sheets that help staff, faculty and their vendors use the brand correctly.
 
-To create future icons, use [App_Icons_Final_Version.ai](icons/App_Icons_Final_Version.ai) as a template.
+To create future icons, use [App_Icons_Revised.ai](icons/App_Icons_Revised.ai) as a template.
 
 <table style="width:100%;">
 <tr>
@@ -85,10 +85,10 @@ URL: brix.brickmmo.com
 <td width="25%">
 
 <h3>PICK A BRICK</h3>
-<img src="icons/png/Pick_A_Brick.png">
+<img src="icons/png/Pick_a_Brick.png">
 <ul>
-<li><a href="icons/png/Pick_A_Brick.png" download>Pick_A_Brick.png</a></li>
-<li><a href="icons/svg/Pick_A_Brick.svg" download>Pick_A_Brick.svg</a></li>
+<li><a href="icons/png/Pick_a_Brick.png" download>Pick_a_Brick.png</a></li>
+<li><a href="icons/svg/Pick_a_Brick.svg" download>Pick_a_Brick.svg</a></li>
 </ul>
 
 </td>
@@ -179,10 +179,10 @@ URL: brix.brickmmo.com
 <td width="25%">
 
 <h3>ROADVIEW</h3>
-<img src="icons/png/RoadView.png">
+<img src="icons/png/Road_View.png">
 <ul>
-<li><a href="icons/png/RoadView.png" download>RoadView.png</a></li>
-<li><a href="icons/svg/RoadView.svg" download>RoadView.svg</a></li>
+<li><a href="icons/png/Road_View.png" download>Road_View.png</a></li>
+<li><a href="icons/svg/Road_View.svg" download>Road_View.svg</a></li>
 </ul>
 
 </td>
@@ -201,10 +201,10 @@ URL: brix.brickmmo.com
 <td width="25%">
   
 <h3>PLACEKIT</h3>
-<img src="icons/png/PlaceKit.png">
+<img src="icons/png/Place_Kit.png">
 <ul>
-<li><a href="icons/png/PlaceKit.png" download>PlaceKit.png</a></li>
-<li><a href="icons/svg/PlaceKit.svg" download>PlaceKit.svg</a></li>
+<li><a href="icons/png/Place_Kit.png" download>Place_Kit.png</a></li>
+<li><a href="icons/svg/Place_Kit.svg" download>Place_Kit.svg</a></li>
 </ul>
 
 </td>
@@ -212,10 +212,10 @@ URL: brix.brickmmo.com
 
 <h3>VIDEOKIT</h3>
 
-<img src="icons/png/VideoKit.png">
+<img src="icons/png/Video_Kit.png">
 <ul>
-<li><a href="icons/png/VideoKit.png" download>VideoKit.png</a></li>
-<li><a href="icons/svg/VideoKit.svg" download>VideoKit.svg</a></li>
+<li><a href="icons/png/Video_Kit.png" download>Video_Kit.png</a></li>
+<li><a href="icons/svg/Video_Kit.svg" download>Video_Kit.svg</a></li>
 </ul>
 
 </td>
@@ -244,30 +244,30 @@ URL: brix.brickmmo.com
 <td width="25%">
 
 <h3>FONT ICONS - INC</h3>
-<img src="icons/png/Brix.png">
+<img src="icons/png/Font_Icons.png">
 <ul>
-<li><a href="icons/png/Brix.png" download>Brix.png</a></li>
-<li><a href="icons/svg/Brix.svg" download>Brix.svg</a></li>
+<li><a href="icons/png/Font_Icons.png" download>Font_Icons.png</a></li>
+<li><a href="icons/svg/Font_Icons.svg" download>Font_Icons.svg</a></li>
 </ul>
 
 </td>
 <td width="25%">
 
 <h3>CLOCK - INC</h3>
-<img src="icons/png/Brix.png">
+<img src="icons/png/Clock.png">
 <ul>
-<li><a href="icons/png/Brix.png" download>Brix.png</a></li>
-<li><a href="icons/svg/Brix.svg" download>Brix.svg</a></li>
+<li><a href="icons/png/Clock.png" download>Clock.png</a></li>
+<li><a href="icons/svg/Clock.svg" download>Clock.svg</a></li>
 </ul>
 
 </td>
 <td width="25%">
 
 <h3>CONVERSIONS - INC</h3>
-<img src="icons/png/Brix.png">
+<img src="icons/png/Conversions.png">
 <ul>
-<li><a href="icons/png/Brix.png" download>Brix.png</a></li>
-<li><a href="icons/svg/Brix.svg" download>Brix.svg</a></li>
+<li><a href="icons/png/Conversions.png" download>Conversions.png</a></li>
+<li><a href="icons/svg/Conversions.svg" download>Conversions.svg</a></li>
 </ul>
 
 </td>
@@ -276,40 +276,40 @@ URL: brix.brickmmo.com
 <td>
     
 <h3>CDN - INC</h3>
-<img src="icons/png/Brix.png">
+<img src="icons/png/CDN.png">
 <ul>
-<li><a href="icons/png/Brix.png" download>Brix.png</a></li>
-<li><a href="icons/svg/Brix.svg" download>Brix.svg</a></li>
+<li><a href="icons/png/CDN.png" download>CDN.png</a></li>
+<li><a href="icons/svg/CDN.svg" download>CDN.svg</a></li>
 </ul>
 
 </td>
 <td>
     
 <h3>GPS - INC</h3>
-<img src="icons/png/Brix.png">
+<img src="icons/png/GPS.png">
 <ul>
-<li><a href="icons/png/Brix.png" download>Brix.png</a></li>
-<li><a href="icons/svg/Brix.svg" download>Brix.svg</a></li>
+<li><a href="icons/png/GPS.png" download>GPS.png</a></li>
+<li><a href="icons/svg/GPS.svg" download>GPS.svg</a></li>
 </ul>
 
 </td>
 <td>
     
 <h3>Media - INC</h3>
-<img src="icons/png/Brix.png">
+<img src="icons/png/Media.png">
 <ul>
-<li><a href="icons/png/Brix.png" download>Brix.png</a></li>
-<li><a href="icons/svg/Brix.svg" download>Brix.svg</a></li>
+<li><a href="icons/png/Media.png" download>Media.png</a></li>
+<li><a href="icons/svg/Media.svg" download>Media.svg</a></li>
 </ul>
 
 </td>
 <td>
     
 <h3>Pixelate - INC</h3>
-<img src="icons/png/Brix.png">
+<img src="icons/png/Pixelate.png">
 <ul>
-<li><a href="icons/png/Brix.png" download>Brix.png</a></li>
-<li><a href="icons/svg/Brix.svg" download>Brix.svg</a></li>
+<li><a href="icons/png/Pixelate.png" download>Pixelate.png</a></li>
+<li><a href="icons/svg/Pixelate.svg" download>Pixelate.svg</a></li>
 </ul>
 
 </td>
@@ -318,20 +318,20 @@ URL: brix.brickmmo.com
 <td>
     
 <h3>Stats - INC</h3>
-<img src="icons/png/Brix.png">
+<img src="icons/png/Stats.png">
 <ul>
-<li><a href="icons/png/Brix.png" download>Brix.png</a></li>
-<li><a href="icons/svg/Brix.svg" download>Brix.svg</a></li>
+<li><a href="icons/png/Stats.png" download>Stats.png</a></li>
+<li><a href="icons/svg/Stats.svg" download>Stats.svg</a></li>
 </ul>
 
 </td>
 <td>
     
 <h3>Uptime - INC</h3>
-<img src="icons/png/Brix.png">
+<img src="icons/png/Uptime.png">
 <ul>
-<li><a href="icons/png/Brix.png" download>Brix.png</a></li>
-<li><a href="icons/svg/Brix.svg" download>Brix.svg</a></li>
+<li><a href="icons/png/Uptime.png" download>Uptime.png</a></li>
+<li><a href="icons/svg/Uptime.svg" download>Uptime.svg</a></li>
 </ul>
 
 </td>
