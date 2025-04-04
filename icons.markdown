@@ -8,17 +8,17 @@
 
 Please refer to the publications below for the brand guidelines which review the advertising themes we are using and how to execute these themes in our marketing materials. The quick reference guides are short, specific content sheets that help staff, faculty and their vendors use the brand correctly.
 
-To create future icons, use [App_Icons_Revised.ai](icons/App_Icons_Revised.ai) as a template.
+To create future icons, use [brickmmo-icons-revised.ai](icons/brickmmo-icons-revised.ai) as a template.
 
 <table style="width:100%;">
 <tr>
 <td width="25%">
 
 <h3>BRIX</h3>
-<img src="icons/png/Brix.png">
+<img src="icons/png/brix.png">
 <ul>
-<li><a href="icons/png/Brix.png" download>Brix.png</a></li>
-<li><a href="icons/svg/Brix.svg" download>Brix.svg</a></li>
+<li><a href="icons/png/brix.png" download>brix.png</a></li>
+<li><a href="icons/svg/brix.svg" download>brix.svg</a></li>
 </ul>
 
 <small>
@@ -33,30 +33,30 @@ URL: brix.brickmmo.com
 <td width="25%">
 
 <h3>NAVIGATION</h3>
-<img src="icons/png/Navigation.png">
+<img src="icons/png/navigation.png">
 <ul>
-<li><a href="icons/png/Navigation.png" download>Navigation.png</a></li>
-<li><a href="icons/svg/Navigation.svg" download>Navigation.svg</a></li>
+<li><a href="icons/png/navigation.png" download>navigation.png</a></li>
+<li><a href="icons/svg/navigation.svg" download>navigation.svg</a></li>
 </ul>
 
 </td>
 <td width="25%">
 
 <h3>FLOW</h3>
-<img src="icons/png/Flow.png">
+<img src="icons/png/flow.png">
 <ul>
-<li><a href="icons/png/Flow.png" download>Flow.png</a></li>
-<li><a href="icons/svg/Flow.svg" download>Flow.svg</a></li>
+<li><a href="icons/png/flow.png" download>flow.png</a></li>
+<li><a href="icons/svg/flow.svg" download>flow.svg</a></li>
 </ul>
 
 </td>
 <td width="25%">
 
 <h3>EVENTS</h3>
-<img src="icons/png/Events.png">
+<img src="icons/png/events.png">
 <ul>
-<li><a href="icons/png/Events.png" download>Events.png</a></li>
-<li><a href="icons/svg/Events.svg" download>Events.svg</a></li>
+<li><a href="icons/png/events.png" download>events.png</a></li>
+<li><a href="icons/svg/events.svg" download>events.svg</a></li>
 </ul>
 
 </td>
@@ -65,40 +65,40 @@ URL: brix.brickmmo.com
 <td width="25%">
 
 <h3>RADIO</h3>
-<img src="icons/png/Radio.png">
+<img src="icons/png/radio.png">
 <ul>
-<li><a href="icons/png/Radio.png" download>Radio.png</a></li>
-<li><a href="icons/svg/Radio.svg" download>Radion.svg</a></li>
+<li><a href="icons/png/radio.png" download>radio.png</a></li>
+<li><a href="icons/svg/radio.svg" download>radio.svg</a></li>
 </ul>
 
 </td>
 <td width="25%">
 
 <h3>TRAIN</h3>
-<img src="icons/png/Train.png">
+<img src="icons/png/train.png">
 <ul>
-<li><a href="icons/png/Train.png" download>Train.png</a></li>
-<li><a href="icons/svg/Train.svg" download>Train.svg</a></li>
+<li><a href="icons/png/train.png" download>train.png</a></li>
+<li><a href="icons/svg/train.svg" download>train.svg</a></li>
 </ul>
 
 </td>
 <td width="25%">
 
 <h3>PICK A BRICK</h3>
-<img src="icons/png/Pick_a_Brick.png">
+<img src="icons/png/pick-a-brick.png">
 <ul>
-<li><a href="icons/png/Pick_a_Brick.png" download>Pick_a_Brick.png</a></li>
-<li><a href="icons/svg/Pick_a_Brick.svg" download>Pick_a_Brick.svg</a></li>
+<li><a href="icons/png/pick-a-brick.png" download>pick-a-brick.png</a></li>
+<li><a href="icons/svg/pick-a-brick.svg" download>pick-a-brick.svg</a></li>
 </ul>
 
 </td>
 <td width="25%">
 
 <h3>COLOURS</h3>
-<img src="icons/png/Colours.png">
+<img src="icons/png/colours.png">
 <ul>
-<li><a href="icons/png/Colours.png" download>Colours.png</a></li>
-<li><a href="icons/svg/Colours.svg" download>Colours.svg</a></li>
+<li><a href="icons/png/colours.png" download>colours.png</a></li>
+<li><a href="icons/svg/colours.svg" download>colours.svg</a></li>
 </ul>
 
 </td>
@@ -107,40 +107,40 @@ URL: brix.brickmmo.com
 <td width="25%">
 
 <h3>PARTS</h3>
-<img src="icons/png/Parts.png">
+<img src="icons/png/parts.png">
 <ul>
-<li><a href="icons/png/Parts.png" download>Parts.png</a></li>
-<li><a href="icons/svg/Parts.svg" download>Parts.svg</a></li>
+<li><a href="icons/png/parts.png" download>parts.png</a></li>
+<li><a href="icons/svg/parts.svg" download>parts.svg</a></li>
 </ul>
 
 </td>
 <td width="25%">
 
 <h3>POWER GRID</h3>
-<img src="icons/png/Power_Grid.png">
+<img src="icons/png/power-grid.png">
 <ul>
-<li><a href="icons/png/Power_Grid.png" download>Power_Grid.png</a></li>
-<li><a href="icons/svg/Power_Grid.svg" download>Power_Grid.svg</a></li>
+<li><a href="icons/png/power-grid.png" download>power-grid.png</a></li>
+<li><a href="icons/svg/power-grid.svg" download>power-grid.svg</a></li>
 </ul>
 
 </td>
 <td width="25%">
 
 <h3>CONTROL PANEL</h3>
-<img src="icons/png/Control_Panel.png">
+<img src="icons/png/control-panel.png">
 <ul>
-<li><a href="icons/png/Control_Panel.png" download>Control_Panel.png</a></li>
-<li><a href="icons/svg/Control_Panel.svg" download>Control_Panel.svg</a></li>
+<li><a href="icons/png/control-panel.png" download>control-panel.png</a></li>
+<li><a href="icons/svg/control-panel.svg" download>control-panel.svg</a></li>
 </ul>
 
 </td>
 <td width="25%">
 
 <h3>QR</h3>
-<img src="icons/png/QR.png">
+<img src="icons/png/qr.png">
 <ul>
-<li><a href="icons/png/QR.png" download>QR.png</a></li>
-<li><a href="icons/svg/QR.svg" download>QR.svg</a></li>
+<li><a href="icons/png/qr.png" download>qr.png</a></li>
+<li><a href="icons/svg/qr.svg" download>qr.svg</a></li>
 </ul>
 
 </td>
@@ -149,40 +149,40 @@ URL: brix.brickmmo.com
 <td width="25%">
 
 <h3>TIMESHEETS</h3>
-<img src="icons/png/Timesheets.png">
+<img src="icons/png/timesheets.png">
 <ul>
-<li><a href="icons/png/Timesheets.png" download>Timesheets.png</a></li>
-<li><a href="icons/svg/Timesheets.svg" download>Timesheets.svg</a></li>
+<li><a href="icons/png/timesheets.png" download>timesheets.png</a></li>
+<li><a href="icons/svg/timesheets.svg" download>timesheets.svg</a></li>
 </ul>
 
 </td>
 <td width="25%">
 
-<h3>BRICKOVERFLOW</h3>
-<img src="icons/png/Brick_Overflow.png">
+<h3>BRICK OVERFLOW</h3>
+<img src="icons/png/brick-overflow.png">
 <ul>
-<li><a href="icons/png/Brick_Overflow.png" download>Brick_Overflow.png</a></li>
-<li><a href="icons/svg/Brick_Overflow.svg" download>Brick_Overflow.svg</a></li>
+<li><a href="icons/png/brick-overflow.png" download>brick-overflow.png</a></li>
+<li><a href="icons/svg/brick-overflow.svg" download>brick-overflow.svg</a></li>
 </ul>
 
 </td>
 <td width="25%">
 
 <h3>TRACKS</h3>
-<img src="icons/png/Tracks.png">
+<img src="icons/png/tracks.png">
 <ul>
-<li><a href="icons/png/Tracks.png" download>Tracks.png</a></li>
-<li><a href="icons/svg/Tracks.svg" download>Tracks.svg</a></li>
+<li><a href="icons/png/tracks.png" download>tracks.png</a></li>
+<li><a href="icons/svg/tracks.svg" download>tracks.svg</a></li>
 </ul>
 
 </td>
 <td width="25%">
 
-<h3>ROADVIEW</h3>
-<img src="icons/png/Road_View.png">
+<h3>ROAD VIEW</h3>
+<img src="icons/png/road-view.png">
 <ul>
-<li><a href="icons/png/Road_View.png" download>Road_View.png</a></li>
-<li><a href="icons/svg/Road_View.svg" download>Road_View.svg</a></li>
+<li><a href="icons/png/road-view.png" download>road-view.png</a></li>
+<li><a href="icons/svg/road-view.svg" download>road-view.svg</a></li>
 </ul>
 
 </td>
@@ -191,41 +191,41 @@ URL: brix.brickmmo.com
 <td width="25%">
 
 <h3>TIMELINE</h3>
-<img src="icons/png/Timeline.png">
+<img src="icons/png/timeline.png">
 <ul>
-<li><a href="icons/png/Timeline.png" download>Timeline.png</a></li>
-<li><a href="icons/svg/Timeline.svg" download>Timeline.svg</a></li>
+<li><a href="icons/png/timeline.png" download>timeline.png</a></li>
+<li><a href="icons/svg/timeline.svg" download>timeline.svg</a></li>
 </ul>
 
 </td>
 <td width="25%">
   
-<h3>PLACEKIT</h3>
-<img src="icons/png/Place_Kit.png">
+<h3>PLACE KIT</h3>
+<img src="icons/png/place-kit.png">
 <ul>
-<li><a href="icons/png/Place_Kit.png" download>Place_Kit.png</a></li>
-<li><a href="icons/svg/Place_Kit.svg" download>Place_Kit.svg</a></li>
+<li><a href="icons/png/place-kit.png" download>place-kit.png</a></li>
+<li><a href="icons/svg/place-kit.svg" download>place-kit.svg</a></li>
 </ul>
 
 </td>
 <td width="25%">
 
-<h3>VIDEOKIT</h3>
+<h3>VIDEO KIT</h3>
 
-<img src="icons/png/Video_Kit.png">
+<img src="icons/png/video-kit.png">
 <ul>
-<li><a href="icons/png/Video_Kit.png" download>Video_Kit.png</a></li>
-<li><a href="icons/svg/Video_Kit.svg" download>Video_Kit.svg</a></li>
+<li><a href="icons/png/video-kit.png" download>video-kit.png</a></li>
+<li><a href="icons/svg/video-kit.svg" download>video-kit.svg</a></li>
 </ul>
 
 </td>
 <td width="25%">
 
 <h3>STORES</h3>
-<img src="icons/png/Stores.png">
+<img src="icons/png/stores.png">
 <ul>
-<li><a href="icons/png/Stores.png" download>Stores.png</a></li>
-<li><a href="icons/svg/Stores.svg" download>Stores.svg</a></li>
+<li><a href="icons/png/stores.png" download>stores.png</a></li>
+<li><a href="icons/svg/stores.svg" download>stores.svg</a></li>
 </ul>
 
 </td>
@@ -234,40 +234,40 @@ URL: brix.brickmmo.com
 <td width="25%">
 
 <h3>BRICKSUM</h3>
-<img src="icons/png/Bricksum.png">
+<img src="icons/png/bricksum.png">
 <ul>
-<li><a href="icons/png/Bricksum.png" download>Bricksum.png</a></li>
-<li><a href="icons/svg/Bricksum.svg" download>Bricksum.svg</a></li>
+<li><a href="icons/png/bricksum.png" download>bricksum.png</a></li>
+<li><a href="icons/svg/bricksum.svg" download>bricksum.svg</a></li>
 </ul>
 
 </td>
 <td width="25%">
 
-<h3>FONT ICONS - INC</h3>
-<img src="icons/png/Font_Icons.png">
+<h3>FONT ICONS</h3>
+<img src="icons/png/font-icons.png">
 <ul>
-<li><a href="icons/png/Font_Icons.png" download>Font_Icons.png</a></li>
-<li><a href="icons/svg/Font_Icons.svg" download>Font_Icons.svg</a></li>
+<li><a href="icons/png/font-icons.png" download>font-icons.png</a></li>
+<li><a href="icons/svg/font-icons.svg" download>font-icons.svg</a></li>
 </ul>
 
 </td>
 <td width="25%">
 
-<h3>CLOCK - INC</h3>
-<img src="icons/png/Clock.png">
+<h3>CLOCK</h3>
+<img src="icons/png/clock.png">
 <ul>
-<li><a href="icons/png/Clock.png" download>Clock.png</a></li>
-<li><a href="icons/svg/Clock.svg" download>Clock.svg</a></li>
+<li><a href="icons/png/clock.png" download>clock.png</a></li>
+<li><a href="icons/svg/clock.svg" download>clock.svg</a></li>
 </ul>
 
 </td>
 <td width="25%">
 
-<h3>CONVERSIONS - INC</h3>
-<img src="icons/png/Conversions.png">
+<h3>CONVERSIONS</h3>
+<img src="icons/png/conversions.png">
 <ul>
-<li><a href="icons/png/Conversions.png" download>Conversions.png</a></li>
-<li><a href="icons/svg/Conversions.svg" download>Conversions.svg</a></li>
+<li><a href="icons/png/conversions.png" download>conversions.png</a></li>
+<li><a href="icons/svg/conversions.svg" download>conversions.svg</a></li>
 </ul>
 
 </td>
@@ -275,41 +275,41 @@ URL: brix.brickmmo.com
 <tr>
 <td>
     
-<h3>CDN - INC</h3>
-<img src="icons/png/CDN.png">
+<h3>CDN</h3>
+<img src="icons/png/cdn.png">
 <ul>
-<li><a href="icons/png/CDN.png" download>CDN.png</a></li>
-<li><a href="icons/svg/CDN.svg" download>CDN.svg</a></li>
+<li><a href="icons/png/cdn.png" download>cdn.png</a></li>
+<li><a href="icons/svg/cdn.svg" download>cdn.svg</a></li>
 </ul>
 
 </td>
 <td>
     
-<h3>GPS - INC</h3>
-<img src="icons/png/GPS.png">
+<h3>GPS</h3>
+<img src="icons/png/gps.png">
 <ul>
-<li><a href="icons/png/GPS.png" download>GPS.png</a></li>
-<li><a href="icons/svg/GPS.svg" download>GPS.svg</a></li>
+<li><a href="icons/png/gps.png" download>gps.png</a></li>
+<li><a href="icons/svg/gps.svg" download>gps.svg</a></li>
 </ul>
 
 </td>
 <td>
     
-<h3>Media - INC</h3>
-<img src="icons/png/Media.png">
+<h3>MEDIA</h3>
+<img src="icons/png/media.png">
 <ul>
-<li><a href="icons/png/Media.png" download>Media.png</a></li>
-<li><a href="icons/svg/Media.svg" download>Media.svg</a></li>
+<li><a href="icons/png/media.png" download>media.png</a></li>
+<li><a href="icons/svg/media.svg" download>media.svg</a></li>
 </ul>
 
 </td>
 <td>
     
-<h3>Pixelate - INC</h3>
-<img src="icons/png/Pixelate.png">
+<h3>PIXELATE</h3>
+<img src="icons/png/pixelate.png">
 <ul>
-<li><a href="icons/png/Pixelate.png" download>Pixelate.png</a></li>
-<li><a href="icons/svg/Pixelate.svg" download>Pixelate.svg</a></li>
+<li><a href="icons/png/pixelate.png" download>pixelate.png</a></li>
+<li><a href="icons/svg/pixelate.svg" download>pixelate.svg</a></li>
 </ul>
 
 </td>
@@ -317,21 +317,21 @@ URL: brix.brickmmo.com
 <tr>
 <td>
     
-<h3>Stats - INC</h3>
-<img src="icons/png/Stats.png">
+<h3>STATS</h3>
+<img src="icons/png/stats.png">
 <ul>
-<li><a href="icons/png/Stats.png" download>Stats.png</a></li>
-<li><a href="icons/svg/Stats.svg" download>Stats.svg</a></li>
+<li><a href="icons/png/stats.png" download>stats.png</a></li>
+<li><a href="icons/svg/stats.svg" download>stats.svg</a></li>
 </ul>
 
 </td>
 <td>
     
-<h3>Uptime - INC</h3>
-<img src="icons/png/Uptime.png">
+<h3>UPTIME</h3>
+<img src="icons/png/uptime.png">
 <ul>
-<li><a href="icons/png/Uptime.png" download>Uptime.png</a></li>
-<li><a href="icons/svg/Uptime.svg" download>Uptime.svg</a></li>
+<li><a href="icons/png/uptime.png" download>uptime.png</a></li>
+<li><a href="icons/svg/uptime.svg" download>uptime.svg</a></li>
 </ul>
 
 </td>
