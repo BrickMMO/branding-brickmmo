@@ -215,7 +215,7 @@ HEX: #848484
 
 <h3>Avoid Background Clutter</h3>
 <img src="improper/background-clutter.png">
-<p>Do not stretch, skew, or rotate the logo; always maintain its original orientation and proportions.</p>
+<p>Do not place the logo on a cluttered, busy patterned background that makes the logo hard to read or recognize.</p>
 
 </td>
 <td width="33.3%">
