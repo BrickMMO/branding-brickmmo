@@ -117,7 +117,7 @@ HEX: #848484
 
 <h3>Horizontal Format:</h3>
 <p>Use the horizontal logo in wide, landscape-oriented spaces and applications where a wider layout complements the design aesthetic and ensures maximum visibility and impact.</p>
-<img src="png/brickmmo-logo-horizontal-coloured.png">
+<img src="png/brickmmo-logo-horizontal-coloured-display.png">
 
 </td>
 </tr>
@@ -141,7 +141,7 @@ HEX: #848484
 <td width="50%">
 
 <h3>Standard Coloured Logo Horizontal</h3>
-<img src="png/brickmmo-logo-horizontal-coloured.png">
+<img src="png/brickmmo-logo-horizontal-coloured-display.png">
 <ul>
 <li><a href="png/brickmmo-logo-horizontal-coloured.png" download>brickmmo-logo-horizontal-coloured.png</a></li>
 <li><a href="svg/brickmmo-logo-horizontal-coloured.svg" download>brickmmo-logo-horizontal-coloured.svg</a></li>
@@ -165,7 +165,7 @@ HEX: #848484
 <td width="50%">
 
 <h3>Logo Black Horizontal</h3>
-<img src="png/brickmmo-logo-horizontal-black-bg.png">
+<img src="png/brickmmo-logo-horizontal-blakc-display.png">
 <ul>
 <li><a href="png/brickmmo-logo-horizontal-black.png" download>brickmmo-logo-horizontal-black.png</a></li>
 <li><a href="svg/brickmmo-logo-horizontal-black.svg" download>Bbrickmmo-logo-horizontal-black.svg</a></li>
@@ -189,7 +189,7 @@ HEX: #848484
 <td width="50%">
 
 <h3>Logo White Horizontal</h3>
-<img src="png/brickmmo-logo-horizontal-white-bg.png">
+<img src="png/brickmmo-logo-horizontal-white-display.png">
 <ul>
 <li><a href="png/brickmmo-logo-horizontal-white.png" download>brickmmo-logo-horizontal-white.png</a></li>
 <li><a href="svg/brickmmo-logo-horizontal-white.svg" download>brickmmo-logo-horizontal-white.svg</a></li>
