@@ -52,7 +52,7 @@ Sub-brands: Smart Cities / Biologics Manufacturing Center</p>
 <td width="33.3%">
 
 <h3>Monotone Logo (White)</h3>
-<img src="png/brickmmo-logo-white-bg.png">
+<img src="png/brickmmo-logo-white-display.png">
 
 </td>
 </tr>
@@ -178,7 +178,7 @@ HEX: #848484
 <td width="50%">
 
 <h3>Standard Logo White </h3>
-<img src="png/brickmmo-logo-white-bg.png">
+<img src="png/brickmmo-logo-white-display.png">
 <ul>
 <li><a href="png/brickmmo-logo-white.png" download>brickmmo-logo-white</a></li>
 <li><a href="svg/brickmmo-logo-white.svg" download>brickmmo-logo-white.svg</a></li>
