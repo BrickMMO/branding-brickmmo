@@ -200,6 +200,82 @@ HEX: #848484
 </tr>
 </table>
 
+## LOGO SYMBOL & WORDMARK
+
+<table>
+<tr>
+<td width="33.3%">
+
+<h3>Coloured Symbol</h3>
+<img src="png/brickmmo-logo-symbol-coloured.png">
+<ul>
+<li><a href="png/brickmmo-logo-symbol-coloured.png" download>brickmmo-logo-symbol-coloured.png</a></li>
+<li><a href="svg/brickmmo-logo-symbol-coloured.svg" download>brickmmo-logo-symbol-coloured.svg</a></li>
+<li><a href="eps/brickmmo-logo-symbol-coloured.eps" download>brickmmo-logo-symbol-coloured.eps</a></li>
+</ul>
+
+</td>
+<td width="33.3%">
+
+<h3>Monotone Symbol (Black)</h3>
+<img src="png/brickmmo-logo-symbol-black.png">
+<ul>
+<li><a href="png/brickmmo-logo-symbol-black.png" download>brickmmo-logo-symbol-black.png</a></li>
+<li><a href="svg/brickmmo-logo-symbol-black.svg" download>brickmmo-logo-symbol-black.svg</a></li>
+<li><a href="eps/brickmmo-logo-symbol-black.eps" download>brickmmo-logo-symbol-black.eps</a></li>
+</ul>
+
+</td>
+<td width="33.3%">
+
+<h3>Monotone Symbol (White)</h3>
+<img src="png/brickmmo-logo-symbol-white-bg.png">
+<ul>
+<li><a href="png/brickmmo-logo-symbol-white.png" download>brickmmo-logo-symbol-white.png</a></li>
+<li><a href="svg/brickmmo-logo-symbol-white.svg" download>brickmmo-logo-symbol-white.svg</a></li>
+<li><a href="eps/brickmmo-logo-symbol-white.eps" download>brickmmo-logo-symbol-white.eps</a></li>
+</ul>
+
+</td>
+</tr>
+
+<tr>
+<td width="33.3%">
+
+<h3>Coloured Symbol</h3>
+<img src="png/brickmmo-logo-wordmark-coloured.png">
+<ul>
+<li><a href="png/brickmmo-logo-wordmark-coloured.png" download>brickmmo-logo-wordmark-coloured.png</a></li>
+<li><a href="svg/brickmmo-logo-wordmark-coloured.svg" download>brickmmo-logo-wordmark-coloured.svg</a></li>
+<li><a href="eps/brickmmo-logo-wordmark-coloured.eps" download>brickmmo-logo-wordmark-coloured.eps</a></li>
+</ul>
+
+</td>
+<td width="33.3%">
+
+<h3>Monotone Symbol (Black)</h3>
+<img src="png/brickmmo-logo-wordmark-black.png">
+<ul>
+<li><a href="png/brickmmo-logo-wordmark-black.png" download>brickmmo-logo-wordmark-black.png</a></li>
+<li><a href="svg/brickmmo-logo-wordmark-black.svg" download>brickmmo-logo-wordmark-black.svg</a></li>
+<li><a href="eps/brickmmo-logo-wordmark-black.eps" download>brickmmo-logo-wordmark-black.eps</a></li>
+</ul>
+
+</td>
+<td width="33.3%">
+
+<h3>Monotone Symbol (White)</h3>
+<img src="png/brickmmo-logo-wordmark-white-bg.png">
+<ul>
+<li><a href="png/brickmmo-logo-wordmark-white.png" download>brickmmo-logo-wordmark-white.png</a></li>
+<li><a href="svg/brickmmo-logo-wordmark-white.svg" download>brickmmo-logo-wordmark-white.svg</a></li>
+<li><a href="eps/brickmmo-logo-wordmark-white.eps" download>brickmmo-logo-wordmark-white.eps</a></li>
+</ul>
+
+</td>
+</tr>
+</table>
+
 ## IMPROPER USES OF THE LOGO
 
 <table>
