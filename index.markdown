@@ -1,5 +1,3 @@
-# branding-brickmmo
-
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
 ## BrickMMO Branding Guidelines
