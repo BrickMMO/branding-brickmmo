@@ -33,7 +33,7 @@ Sub-brands: Smart Cities / Biologics Manufacturing Center</p>
 </tr>
 </table>
 
-## LOGO COLOURS
+## LOGO COLORS
 
 
 
@@ -170,8 +170,8 @@ HEX: #848484
 <img src="png/brickmmo-logo-horizontal-blakc-display.png">
 <ul>
 <li><a href="png/brickmmo-logo-horizontal-black.png" download>brickmmo-logo-horizontal-black.png</a></li>
-<li><a href="svg/brickmmo-logo-horizontal-black.svg" download>Bbrickmmo-logo-horizontal-black.svg</a></li>
-<li><a href="eps/brickmmo-logo-horizontal-black.eps" download>Bbrickmmo-logo-horizontal-black.eps</a></li>
+<li><a href="svg/brickmmo-logo-horizontal-black.svg" download>brickmmo-logo-horizontal-black.svg</a></li>
+<li><a href="eps/brickmmo-logo-horizontal-black.eps" download>brickmmo-logo-horizontal-black.eps</a></li>
 </ul>
 
 </td>
@@ -184,7 +184,7 @@ HEX: #848484
 <ul>
 <li><a href="png/brickmmo-logo-white.png" download>brickmmo-logo-white</a></li>
 <li><a href="svg/brickmmo-logo-white.svg" download>brickmmo-logo-white.svg</a></li>
-<li><a href="eps/brickmmo-logo-white.eps" download>Bbrickmmo-logo-white.eps</a></li>
+<li><a href="eps/brickmmo-logo-white.eps" download>brickmmo-logo-white.eps</a></li>
 </ul>
 
 </td>
@@ -314,9 +314,9 @@ HEX: #848484
 </td>
 <td width="33.3%">
 
-<h3>Avoid Unapproved Colours</h3>
+<h3>Avoid Unapproved Colors</h3>
 <img src="improper/unapproved-colours.png">
-<p>Do not use colours outside the approved colour palette for the logo.</p>
+<p>Do not use colors outside the approved color palette for the logo.</p>
 
 </td>
 <td width="33.3%">
